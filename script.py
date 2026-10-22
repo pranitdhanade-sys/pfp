@@ -11,7 +11,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-DEFAULT_BOARD = "https://in.pinterest.com/pranitdhanade/pfp/"
+DEFAULT_BOARD = "https://in.pinterest.com/pranitdhanade/pfp/_tools/more-ideas/?ideas_referrer=23"
 DESTINATION = Path("pfps")
 
 
